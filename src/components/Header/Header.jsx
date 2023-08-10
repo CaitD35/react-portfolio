@@ -4,7 +4,7 @@ import './Header.css';
 
 function Header() {
   return (
-    <header>
+    <header className= "header">
       <h1>Caitlin Donahue's Portfolio</h1>
       <Navigation />
     </header>

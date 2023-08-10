@@ -1,0 +1,29 @@
+.header {
+  background: #f7f7f7; 
+  padding: 10px 20px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+  /* Sticky position */
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+
+.header h1 {
+  color: black; 
+  margin: 0; 
+  font-size: 2em; 
+  letter-spacing: 1px; 
+  font-weight: 600;
+}
+
+.navbar {
+  display: flex;
+  gap: 25px;
+}
+
+/* ... your existing navbar styles ... */

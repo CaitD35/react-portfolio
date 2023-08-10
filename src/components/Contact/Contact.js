@@ -23,7 +23,7 @@ function Contact() {
             alert("Please provide a valid email address.");
             return;
         }
-        // Here, you can send the formData to an API or handle as needed.
+       
         alert("Message sent successfully!");
     };
 

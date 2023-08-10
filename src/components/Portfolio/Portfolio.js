@@ -3,9 +3,9 @@ import Project from '../Project/Project';
 import './Portfolio.css';
 
 function Portfolio() {
-    // Sample data - replace with your projects
+    
     const projects = [
-        { title: "Project 1", imgSrc: "path-to-image1.jpg", deployedLink: "https://example1.com", githubLink: "https://github.com/you/project1" },
+        { title: "Workout Tracker", imgSrc: "./images/workouttracker.png", deployedLink: "https://workout-plus-c7901a67a230.herokuapp.com", githubLink: "https://github.com/Lalu423/workout-tracker.git " },
         // ... add other projects
     ];
 
