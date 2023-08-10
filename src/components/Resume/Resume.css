@@ -1,0 +1,33 @@
+.resume {
+  padding: 20px;
+}
+
+.resume a {
+  display: inline-block;
+  margin-bottom: 20px;
+  padding: 10px 20px;
+  background-color: #007BFF;
+  color: #fff;
+  border-radius: 4px;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.resume a:hover {
+  background-color: #0056b3;
+}
+
+.resume h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.resume ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.resume li {
+  font-size: 18px;
+  padding: 5px 0;
+}
