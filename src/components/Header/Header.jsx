@@ -5,7 +5,7 @@ import './Header.css';
 function Header() {
   return (
     <header>
-      <h1>Developer Name</h1>
+      <h1>Caitlin Donahue's Portfolio</h1>
       <Navigation />
     </header>
   );

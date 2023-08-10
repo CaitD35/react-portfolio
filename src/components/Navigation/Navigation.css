@@ -1,4 +1,27 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px; 
+}
+
+.navbar a {
+    color: #010101eb;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    transition: background-color 0.3s; /* Transition on hover */
+}
+
+.navbar a:hover {
+  background-color: #95588f;
+}
+
 .active {
   font-weight: bold;
-  /* Any other styling you want for the active link */
+  text-decoration: underline;
+  
+  
+
+
 }

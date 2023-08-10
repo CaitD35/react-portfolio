@@ -6,7 +6,7 @@ function Navigation() {
   const location = useLocation();
 
   return (
-    <nav>
+    <nav className = "navbar">
       <Link to="/" className={location.pathname === "/" ? "active" : ""}>About Me</Link>
       <Link to="/portfolio" className={location.pathname === "/portfolio" ? "active" : ""}>Portfolio</Link>
       <Link to="/contact" className={location.pathname === "/contact" ? "active" : ""}>Contact</Link>

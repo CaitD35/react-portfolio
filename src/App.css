@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.fade-enter,
+.fade-exit-active {
+    opacity: 0;
+}
+
+.fade-enter-active,
+.fade-exit {
+    opacity: 1;
+    transition: opacity 300ms;
+}
