@@ -1,5 +1,5 @@
 .header {
-  background: #f7f7f7; 
+  background: #f7f7f7a3; 
   padding: 10px 20px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
   display: flex;
@@ -17,13 +17,18 @@
   color: black; 
   margin: 0; 
   font-size: 2em; 
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   letter-spacing: 1px; 
   font-weight: 600;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+  
 }
 
 .navbar {
   display: flex;
   gap: 25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
 }
 
 /* ... your existing navbar styles ... */

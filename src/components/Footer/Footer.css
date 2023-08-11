@@ -11,8 +11,28 @@
   color: #000000;
   text-decoration: none;
   padding: 0 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
 }
 
 .footer a:hover {
   text-decoration: underline;
+}
+
+.footer-contact p {
+  margin: 0;
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
+
+.footer-contact a {
+  color: #fff;
+  text-decoration: underline; 
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.footer-contact a:hover {
+  text-decoration: none;
 }
