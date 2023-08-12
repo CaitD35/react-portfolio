@@ -5,7 +5,7 @@ import './Header.css';
 function Header() {
   return (
     <header className= "header">
-      <h1>Caitlin Donahue's Portfolio</h1>
+      <h1>Caitlin Donahue</h1>
       <Navigation />
     </header>
   );

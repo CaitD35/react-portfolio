@@ -6,7 +6,7 @@ function AboutMe() {
         <div className="about-me">
               <img src= "/images/IMG_5882.jpeg"  alt=" Caitlin Donahue " />
               <div className="about-text-box">
-            <p> My name is Caitlin Donahue (Cait) and I am learning to code at UPenn coding bootcamp. My current work experience includes customer service and finance, so I am excited to learn this new skill to make a new career and future for myself!</p>
+            <p> Hi there! I'm Caitlin Donahue (Cait). I'm in the midst of an exciting journey, learning full-stack development at UPenn's Coding Bootcamp. Having carved a path through customer service and finance, I am now embracing the world of technology, keen to integrate my previous experiences with my new coding talents. This venture represents more than just a skill; it's my commitment to a brighter, tech-driven future.</p>
             </div>
         </div>
     );

@@ -1,5 +1,12 @@
 .resume {
   padding: 20px;
+  background-image: url('/public/images/flwr.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-blend-mode: overlay;
+  background-color: rgba(255, 255, 255, 0.5);
+
 }
 
 .resume a {
@@ -20,14 +27,29 @@
 .resume h2 {
   font-size: 24px;
   margin-bottom: 10px;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
 }
 
 .resume ul {
   list-style-type: none;
   padding-left: 0;
+  margin-bottom: 20px;
+  text-decoration: solid;
 }
 
 .resume li {
   font-size: 18px;
   padding: 5px 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+  font-weight: bold;
+}
+
+.pro-text-box {
+  background-color: rgba(255, 255, 255, 0.5);
+  padding: 1px 5px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  max-width: 150px;
+
 }

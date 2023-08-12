@@ -6,6 +6,7 @@
   padding: 20px;
   border: 1px solid #ddd;
   border-radius: 8px;
+  background-color:  rgba(221, 176, 219, 0.914);
 }
 
 .contact-form input,
@@ -36,3 +37,5 @@
 .contact-form button:hover {
   background-color: #0056b3;
 }
+
+
