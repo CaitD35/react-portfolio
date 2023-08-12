@@ -9,6 +9,8 @@ function Portfolio() {
         { title: "Activity Roulette", imgSrc: "./images/AR_project.png", deployedLink: "https://sarroyo551.github.io/Activity-Roulette/", githubLink: "https://github.com/sarroyo551/Activity-Roulette.git" },
         { title: "Horiseon Refactor", imgSrc: "./images/hr.png", deployedLink: "https://caitd35.github.io/horiseon-refactor-/", githubLink: "https://github.com/CaitD35/horiseon-refactor-.git" }, 
         { title: "Pre-work Study Guide", imgSrc: "./images/pr.png", deployedLink: "https://caitd35.github.io/prework-study-guide/", githubLink: "https://github.com/CaitD35/prework-study-guide.git" },   
+        { title: "PWA Text Editor", imgSrc: "./images/jate1.png", deployedLink: "https://pwa-text-editor-jate1-0f3b37308728.herokuapp.com", githubLink: "https://github.com/CaitD35/PWA-text-editor.git"},
+        { title: "Password Generator", imgSrc: "./images/pwg.png", deployedLink: "https://caitd35.github.io/password-generator/", githubLink: "https://github.com/CaitD35/password-generator.git"},
     ];
 
     return (

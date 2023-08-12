@@ -17,12 +17,15 @@ const Resume = () => {
         <li>HTML</li>
         <li>CSS</li>
         <li>JavaScript</li>
+        <li>APIs</li>
         <li>React</li>
-        <li>Node</li>
+        <li>Node.js</li>
         <li>Express</li>
         <li>MySQL</li>
+        <li>NoSQL</li>
         <li>MongoDB</li>
         <li>GraphQL</li>
+        <li>Git</li>
       </ul>
       </div>
       
