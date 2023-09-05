@@ -11,6 +11,7 @@ function Portfolio() {
         { title: "Pre-work Study Guide", imgSrc: "./images/pr.png", deployedLink: "https://caitd35.github.io/prework-study-guide/", githubLink: "https://github.com/CaitD35/prework-study-guide.git" },   
         { title: "PWA Text Editor", imgSrc: "./images/jate1.png", deployedLink: "https://pwa-text-editor-jate1-0f3b37308728.herokuapp.com", githubLink: "https://github.com/CaitD35/PWA-text-editor.git"},
         { title: "Password Generator", imgSrc: "./images/pwg.png", deployedLink: "https://caitd35.github.io/password-generator/", githubLink: "https://github.com/CaitD35/password-generator.git"},
+        { title: "SpaceXplorer", imgSrc: './images/spacex.gif', deployedLink: 'https://spacexplorer-10-24f419ee8790.herokuapp.com/', githubLink: 'https://github.com/CaitD35/spaceXplorer.git'},
     ];
 
     return (
